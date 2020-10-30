@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@architect/functions": "^3.13.4",
+    "arc-macro-site-url": "^1.0.0"
+  }
+}

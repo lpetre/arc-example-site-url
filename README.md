@@ -1,0 +1,1 @@
+Sample example for [arc-macro-site-url](https://github.com/lpetree/arc-macro-site-url)

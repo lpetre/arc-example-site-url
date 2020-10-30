@@ -1,0 +1,14 @@
+{
+  "name": "arc-example-site-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@architect/architect": "^8.2.1",
+    "arc-macro-site-url": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Petre <lpetre@gmail.com>",
+  "license": "Apache-2.0"
+}
